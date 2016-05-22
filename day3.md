@@ -20,6 +20,8 @@
 
 です。 
 
+もちろんただ取り込んで終わりではおもしろくないので工夫をした「一覧」を作ってみてください。
+
 ### はじめよう kintone JavaScript APIを触ってみる
 
 [はじめよう kintone JavaScript API](https://cybozudev.zendesk.com/hc/ja/sections/200332780-%E3%81%AF%E3%81%98%E3%82%81%E3%82%88%E3%81%86-kintone-JavaScript-API)の第1回から第8回くらいまでをやってみましょう。
