@@ -16,11 +16,11 @@
 ## 講義予定
 
 ### kintoneセクション
- 
+
 * day1: [講義オリエンテーション/kintoneにかかわる基礎知識](day1.md)
 * day2: [kintoneでアプリをパパっと作ってみよう](day2.md)
 * day3: [kintoneでちょっと?高度なアプリ開発](day3.md)
-* day4: kintone + IoT(Arduinoからkintoneへデータを送ってみる)
+* day4: [kintone + IoT(Arduinoからkintoneへデータを送ってみる)](day4.md)
 
 ### AWSセクション
 
