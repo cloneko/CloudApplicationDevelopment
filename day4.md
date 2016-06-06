@@ -102,6 +102,12 @@ APIトークンとはこのトークンを知らない人が自分のアプリ�
 
 ##### Arudino IDEをダウンロード/インストールする
 
+Ubuntuを使用している学生は事前に
+
+    sudo addgroup user dialout
+
+を実行後、再起動してから続きを行なってください。
+
 Arduinoで動作するプログラムを作るためにArduino IDEというソフトが必要になります。[Arudinoの公式サイト]からダウンロードします。
 
 (Ubuntuの場合、`apt install arduino`ってやればインストールできるんですが、バージョンが古すぎるので…)
@@ -112,6 +118,9 @@ Ubuntuの場合は64bit版をダウンロードして、展開後、ターミナ
 
 あと、[ESP-WROOM-02用の設定](http://esp8266.github.io/Arduino/versions/2.0.0/doc/installing.html)をWebページを参考にして行なってください。
 (Using git version)の手前までで大丈夫です。
+
+最後にArduino IDEが起動したら「Tool」メニューの「Reset Method」を「nodemcu」に変更します。(これをやらないとArduinoにプロフラムを書き込みできません…)
+
 
 
 ##### Arduinoでプログラムを動かす
