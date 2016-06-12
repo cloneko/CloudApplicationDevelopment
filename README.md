@@ -24,8 +24,8 @@
 
 ### AWSセクション
 
-* day5: AWSで(本当に?)10円でWebサイトが公開できるのか?
-* day6: AWS MobileHub Handson
+* day5: ~~AWSで(本当に?)10円でWebサイトが公開できるのか?~~
+* day6: [AWS MobileHub Handson](day6.md)
 
 ### まとめ
 
